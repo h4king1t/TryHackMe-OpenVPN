@@ -1,4 +1,4 @@
-Task 1  Connecting to our network /n
+Task 1  Connecting to our network
 Task 2  Connecting with Windows
 Task 3  Connecting with MacOS
 Task 4  Connecting with Linux
