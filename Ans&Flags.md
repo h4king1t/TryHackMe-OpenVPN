@@ -10,4 +10,5 @@ Task 6  Check you're connected
 What is the flag displayed on the deployed machine's website?
 Ans: flag{connection_verified}
 
+
 **NOW YOU COMPLETED THE ROOM ✅**
